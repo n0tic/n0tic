@@ -6,7 +6,7 @@
 
 - ⚡ I’m currently working on a few secret projects behind the scene. Not yet ready to unveil.
 
-- 👨‍💻 Most of my personal projects are available at [github.com/n0tic?tab=repositories](github.com/n0tic?tab=repositories)
+- 👨‍💻 Most of my personal projects are available at [https://github.com/n0tic?tab=repositories](https://github.com/n0tic?tab=repositories)
 
 - 📫 You can reach me on Discord: **N0tiC#0694**
 
