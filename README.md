@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Victor!</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=n0tic" alt="n0tic" /> </p>
+<h3 align="center">A hobbyist developer from Sweden.</h3>
 
-<!--
-**n0tic/n0tic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I've created Applications, Mods, Games and Websites. I particularly enjoy working with C# and PHP.
 
-Here are some ideas to get you started:
+- ⚡ I’m currently working on a few secret projects behind the scene. Not yet ready to unveil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Most of my personal projects are available at [github.com/n0tic?tab=repositories](github.com/n0tic?tab=repositories)
+
+- 📫 You can reach me on Discord: **N0tiC#0694**
+
+Additional Profiles:
+-  [ByteVault Studio](https://bytevaultstudio.se/)
+
+<p align="center">Focusing 🎯 on life currently, so can't promise that I will get much done coding wise...</p>
