@@ -10,7 +10,7 @@
 
 - 📫 You can reach me on Discord: **N0tiC#0694**
 
-Additional Profiles:
+Additional Links:
 -  [ByteVault Studio](https://bytevaultstudio.se/)
 
 <p align="center">Focusing 🎯 on life currently, so can't promise that I will get much done coding wise...</p>
