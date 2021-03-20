@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Victor!</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=n0tic" alt="n0tic" /> </p>
-<h3 align="center">A hobbyist developer from Sweden.</h3>
+<h3 align="center">A hobby developer.</h3>
 
 - 🔭 I've created Applications, Mods, Games and Websites. I particularly enjoy working with C# and PHP.
 
