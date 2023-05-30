@@ -4,13 +4,11 @@
 
 - 🔭 I've created Applications, Mods, Games and Websites. I particularly enjoy working with C# and PHP.
 
-- ⚡ I’m currently working on a few secret projects behind the scene. Not yet ready to unveil.
+- ⚡ I’m always working on projects behind the scene. I tend to loose interest pretty fast sometimes...
 
-- 👨‍💻 Most of my projects are available at [https://github.com/n0tic?tab=repositories](https://github.com/n0tic?tab=repositories)
+- 👨‍💻 Most of my projects are available [here](https://github.com/n0tic?tab=repositories) or at [ByteVault Studio](https://bytevaultstudio.se/)
 
 - 📫 You can reach me on Discord: **N0tiC#0694**
 
 Additional Links:
 -  [ByteVault Studio](https://bytevaultstudio.se/)
-
-<p align="center">Focusing 🎯 on life currently, so can't promise that I will get much done coding wise...</p>
