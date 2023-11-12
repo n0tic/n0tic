@@ -8,7 +8,7 @@
 
 - 👨‍💻 Most of my projects are available [here](https://github.com/n0tic?tab=repositories) or at [ByteVault Studio](https://bytevaultstudio.se/)
 
-- 📫 You can reach me on Discord: **N0tiC#0694**
+- 📫 You can reach me on Discord: [**N0tiC#0694**](https://discord.gg/WypdXXJ34p)
 
 Additional Links:
 -  [ByteVault Studio](https://bytevaultstudio.se/)
