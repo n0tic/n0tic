@@ -7,8 +7,3 @@
 - ⚡ I’m always working on projects behind the scene. I tend to loose interest pretty fast sometimes...
 
 - 👨‍💻 Some of my projects are available [here](https://github.com/n0tic?tab=repositories).
-
-- 📫 You can reach me on Discord: [**N0tiC#0694**](https://discord.gg/WypdXXJ34p)
-
-Additional Links:
--  [ByteVault Studio](https://bytevaultstudio.se/)
